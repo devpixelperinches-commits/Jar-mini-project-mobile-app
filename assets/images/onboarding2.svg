@@ -1,0 +1,27 @@
+<svg width="194" height="200" viewBox="0 0 194 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="109" cy="100" r="85" fill="#767680" fill-opacity="0.12"/>
+<rect x="59" width="100" height="200" rx="12" fill="#411464"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M71 3H147C151.971 3 156 7.02944 156 12V188C156 192.971 151.971 197 147 197H71C66.0294 197 62 192.971 62 188V12C62 7.02944 66.0294 3 71 3ZM59 12C59 5.37258 64.3726 0 71 0H147C153.627 0 159 5.37258 159 12V188C159 194.627 153.627 200 147 200H71C64.3726 200 59 194.627 59 188V12ZM98 6C95.7909 6 94 7.79086 94 10C94 12.2091 95.7909 14 98 14H120C122.209 14 124 12.2091 124 10C124 7.79086 122.209 6 120 6H98Z" fill="#A77ACA"/>
+<circle cx="164" cy="144" r="30" fill="url(#paint0_linear_7979_234095)"/>
+<path d="M165 134L156.093 144.688C155.745 145.106 155.57 145.316 155.568 145.492C155.565 145.646 155.634 145.792 155.753 145.889C155.891 146 156.163 146 156.708 146H164L163 154L171.907 143.312C172.255 142.894 172.43 142.684 172.432 142.508C172.435 142.354 172.366 142.208 172.247 142.111C172.109 142 171.837 142 171.292 142H164L165 134Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<g opacity="0.3">
+<rect x="71.5" y="31.5" width="31" height="11" rx="3.5" stroke="#A77ACA"/>
+<rect x="71.5" y="51.5" width="51" height="11" rx="3.5" stroke="#A77ACA"/>
+<rect x="71.5" y="71.5" width="67" height="11" rx="3.5" stroke="#A77ACA"/>
+<rect x="71.5" y="91.5" width="47" height="11" rx="3.5" stroke="#A77ACA"/>
+<rect x="71.5" y="111.5" width="41" height="11" rx="3.5" stroke="#A77ACA"/>
+<rect x="71.5" y="131.5" width="35" height="11" rx="3.5" stroke="#A77ACA"/>
+<rect x="71.5" y="151.5" width="63" height="11" rx="3.5" stroke="#A77ACA"/>
+</g>
+<rect y="48" width="76" height="22" rx="8" fill="#96E9C6"/>
+<rect x="16" y="56" width="44" height="6" rx="3" fill="#FAFAFA"/>
+<rect y="76" width="111" height="22" rx="8" fill="#96E9C6"/>
+<rect x="16" y="84" width="44" height="6" rx="3" fill="#FAFAFA"/>
+<rect x="68" y="84" width="27" height="6" rx="3" fill="#FAFAFA"/>
+<defs>
+<linearGradient id="paint0_linear_7979_234095" x1="145.237" y1="129.754" x2="163.597" y2="174.572" gradientUnits="userSpaceOnUse">
+<stop stop-color="#6C22A6"/>
+<stop offset="1" stop-color="#96E9C6"/>
+</linearGradient>
+</defs>
+</svg>
